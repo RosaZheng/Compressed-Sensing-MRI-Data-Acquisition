@@ -4,7 +4,7 @@ MRI: How to Sense Less and Recover Full Images
 
 The work was done at Missouri University of Science and Technology and the University of Missouri -Columbia
 
-For more information, contact Dr. Rosa Zheng at yrz218@lehigh.edu or Dr. Lixin Ma at mal@health.missouri.edu
+For more information, contact Dr. Rosa Zheng  (yrz218 at lehigh.edu) or Dr. Lixin Ma  (mal at health.missouri.edu)
 
 **Reference**
 
