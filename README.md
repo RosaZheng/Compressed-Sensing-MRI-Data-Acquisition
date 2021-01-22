@@ -10,6 +10,10 @@ For more information, contact Dr. Rosa Zheng at yrz218@lehigh.edu or Dr. Lixin M
 
 E. Tan, M. Yang, L. Ma, and Y.R. Zheng, “Implementation of compressive sensing for preclinical cine-MRI,” SPIE Medical Imaging, San Diego, CA, Feb.15-20, 2014. pp. 1-10.
 
+The CS solver was modified based on RecPF v2.2: a solver for CS Reconstruction from Partial Fourier data
+by Junfeng Yang, Wotao Yin, and Yin Zhang  2009-2010
+
+
 **Copyright**
 
 Copyright (c) Elliot Tan, Ming Yang, Lixin Ma, and Y. Rosa Zheng
